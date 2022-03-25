@@ -1,4 +1,4 @@
-package unit_01;
+package Unit_01;
 
 
 
@@ -8,7 +8,7 @@ package unit_01;
 //
 //}
 
-public class P1_task2_lab {
+public class P1_Task2_lab {
 	
 	
 	static int a=10;   //Static function only give access to  global static variables.
@@ -33,7 +33,7 @@ public static  void main(String args[]) {
 
 
 //public static void int(String args[]) {   //Also can't make a function name as  keyword
-//		System.out.println("hloo");    
+//		System.out.println("Hello");    
 //
 //
 //
