@@ -1,6 +1,6 @@
 package Unit_01;
 
-public class P2_task_02_Constant {
+public class P3_task_01_DatatypeVariableInJava {
 	/* 
 	  -Variables in Java is a data container that saves the data values during Java program execute.
 	  
