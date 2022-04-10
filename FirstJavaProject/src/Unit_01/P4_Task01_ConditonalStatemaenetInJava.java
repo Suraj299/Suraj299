@@ -1,6 +1,6 @@
 package Unit_01;
 import java.util.*;
-public class P4_conditonalStatemaenetInJava {
+public class P4_Task01_ConditonalStatemaenetInJava {
 	static void unary_operator(int a, int b)
     {
     	int c,d,e,f;
